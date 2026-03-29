@@ -44,19 +44,19 @@ Moving everything to C: wastes SSD space. Manually creating symlinks requires ad
 
 > **Dashboard — Active Symlinks view**
 
-![Dashboard](assets/screenshots/dashboard.png)
+![Dashboard](Assets/screenshots/dashboard.png)
 
 > **Subfolder Exclusion Dialog**
 
-![Subfolder Exclusions](assets/screenshots/subfolder_exclusions.png)
+![Subfolder Exclusions](Assets/screenshots/subfolder_exclusions.png)
 
 > **Settings Window**
 
-![Settings](assets/screenshots/settings.png)
+![Settings](Assets/screenshots/settings.png)
 
 > **System Tray Menu**
 
-![Tray](assets/screenshots/tray.png)
+![Tray](Assets/screenshots/tray.png)
 
 ---
 
